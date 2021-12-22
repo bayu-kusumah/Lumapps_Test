@@ -8,9 +8,9 @@
 
 Choose one above (if applicable)
 
--   [x] Major
+-   [ ] Major
 -   [ ] Minor
--   [ ] Patch
+-   [x] Patch
 
 <!--- If your extension is private add customer names and ids above -->
 
