@@ -23,7 +23,9 @@ Choose one above (if applicable)
 <!--- Add some screenshots of your extensions above -->
 
 ## Screenshots
+![alt text](https://github.com/pointstar-dev/Lumapps_Test/blob/93b607ec136c4e2f6fbd17ddb00186679a395fe6/.github/pointstar_test.png)
 
 <!--- Add needed information to let reviewer test your extension locally -->
 
 ## Tests
+need review
