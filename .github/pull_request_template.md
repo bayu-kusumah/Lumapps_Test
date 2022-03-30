@@ -28,4 +28,4 @@ Choose one above (if applicable)
 <!--- Add needed information to let reviewer test your extension locally -->
 
 ## Tests
-need deploy
+need review
