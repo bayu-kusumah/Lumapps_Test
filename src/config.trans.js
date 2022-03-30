@@ -3,12 +3,12 @@
  *  update the following to fit your needs
  */ /**
  * The ids of your partner and extension
- */var partnerId={beta:'',production:'',dev:'c93261d1-7e1a-44dc-afa7-16621cb62150'};var extensionId={beta:'',production:'',dev:'205542301179093275489070837427186164334'};var description={en:'Test Extension'};var name={en:'Test Extension'};var icon={en:'https://lh3.googleusercontent.com/-6F_iwel8KGY/WD8MdGS0PkI/AAAAAAAAGDI/KaqvKtZCK_AsdK6BcKp6Cy1MpwoEWCUvgCKgB/s400/logo.png'// a working link to your widget icon
+ */var partnerId={beta:'2faa6561-a07d-4a8b-8ebb-e9f55b616ee2',production:''};var extensionId={beta:'194713396028935666177751391327792956924',production:''};var description={en:'coba widget buat dana'};var name={en:'test'};var icon={en:'https://www.point-star.com/wp-content/uploads/2021/06/ps-logo.png'// a working link to your widget icon
 };var oauth=false;/**
  * Define the availability of your extension :
  * - open : available for everyone
  * - marketplace : the customer need to have access to the marketplace
- */var availability='open';/**
+ */var availability='marketplace';/**
  * Define if your extension needs to connect to external service through an application declare on provider side.
  *
  * Uncomment the following block to declare application usage for your extension.
@@ -17,7 +17,7 @@
     providerType: '',
 };*/ /**
  * The documentation's url of the extension.
- */var links={documentation:''};/**
+ */var links={documentation:null};/**
  * The components available for your extensions
  * 'content' : For the Widget content itself (required)
  * 'settings' : For your widget settings

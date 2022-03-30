@@ -7,26 +7,26 @@
  * The ids of your partner and extension
  */
 const partnerId = {
-    beta: '',
+    beta: '2faa6561-a07d-4a8b-8ebb-e9f55b616ee2',
     production: '',
 };
 
 const extensionId = {
-    beta: '',
+    beta: '194713396028935666177751391327792956924',
     production: '',
 };
 
 const description = {
-    en: 'SampleWidgetTypescript',
+    en: 'coba widget buat dana',
 };
 
 const name = {
-    en: 'SampleWidgetTypescript',
+    en: 'test',
 };
 
 const icon = {
     en:
-        'https://lh3.googleusercontent.com/-6F_iwel8KGY/WD8MdGS0PkI/AAAAAAAAGDI/KaqvKtZCK_AsdK6BcKp6Cy1MpwoEWCUvgCKgB/s400/logo.png', // a working link to your widget icon
+        'https://www.point-star.com/wp-content/uploads/2021/06/ps-logo.png', // a working link to your widget icon
 };
 
 const oauth = false;
